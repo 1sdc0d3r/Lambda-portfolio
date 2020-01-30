@@ -16,7 +16,7 @@ export const projects = [
   {
     img: "pic03",
     ref: "",
-    title: "First Sprint Challenge!",
+    title: "UI Sprint",
     content:
       "I was given 3 hours to design 2 pages. Included were the design files, and some very disorganized html. I enjoyed this small challenge."
   },
@@ -35,40 +35,55 @@ export const projects = [
       "This project was set up to let us read and learn to manipulate someone elses code. This template is fantastic for new inspirational ideas."
   },
   {
-    img: "pic06",
-    ref: "",
-    title: "Bonus throwback",
-    content:
-      "I decided to include the first website that I had created in a html language that is of the past. It was created at a Pals camp that I attended during elementary school."
-  },
-  {
-    img: "pic07",
-    ref: "",
-    title: "Baseball-Stadium",
-    content: ""
-  },
-  {
     img: "pic08",
     ref: "",
     title: "CSS Sprint",
+    content:
+      "In this challenge we were given the design and I just had to organize everything using simple CSS. Really simple challenge to start off learning styling."
+  },
+  {
+    img: "pic11",
+    ref: "",
+    title: "football-scoreboard",
+    content:
+      "This was my first React project. I designed a simple scoreboard to keep track of the football score."
+  },
+  {
+    img: "pic10",
+    ref: "",
+    title: "Nasa Photo of the day",
+    content:
+      "This was the first project that I was taught how to retrieve data from a API. It pulls a new photo from NASA every day!"
+  },
+  {
+    img: "pic15",
+    ref: "",
+    title: "React Wars",
+    content:
+      "This was a sprint on handling data from an API and allowing you to search through the data that was received."
+  },
+  {
+    img: "pic13",
+    ref: "",
+    title: "Router Movies",
+    content: ""
+  },
+  {
+    img: "pic03",
+    ref: "",
+    title: "Rick and Morty Sprint",
     content: ""
   },
   {
     img: "pic09",
     ref: "",
     title: "Restaurant Passport",
-    content: ""
+    content: "Build Week"
   },
   {
-    img: "pic10",
+    img: "pic14",
     ref: "",
-    title: "Nasa Photo of the day",
-    content: ""
-  },
-  {
-    img: "pic11",
-    ref: "",
-    title: "american-football",
+    title: "React TODO",
     content: ""
   },
   {
@@ -78,40 +93,17 @@ export const projects = [
     content: ""
   },
   {
-    img: "pic13",
+    img: "pic07",
     ref: "",
-    title: "Router Movies",
+    title: "Baseball-Stadium",
     content: ""
   },
-  {
-    img: "pic14",
-    ref: "",
-    title: "React TODO",
-    content: ""
-  },
-  {
-    img: "pic15",
-    ref: "",
-    title: "React Wars",
-    content: ""
-  },
-  {
-    img: "pic03",
-    ref: "",
-    title: "Single Page Apps Sprint",
-    content: ""
-  },
+
   {
     img: "pic06",
     ref: "",
-    title: "UI Sprints",
-    content: ""
+    title: "Bonus throwback",
+    content:
+      "I decided to include the first website that I had created in a html language that is of the past. It was created at a Pals camp that I attended during elementary school."
   }
 ];
-
-
-
-
-
-
-

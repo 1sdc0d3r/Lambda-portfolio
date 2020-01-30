@@ -1,5 +1,5 @@
 html {
-  background-image: linear-gradient(217deg, #8f2086 5%, #69b835 15%, #1818bd 80%);
+  background: rgba(16, 233, 117, 0.774) 15%;
 }
 
 .App {
@@ -21,7 +21,6 @@ html {
   display: flex;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
-  border: 2px solid lawngreen;
   width: 100%;
 }
 
@@ -45,7 +44,7 @@ html {
 
 .project-list article a {
   text-decoration: none;
-  color: coral;
+  color: linen;
 }
 
 .project-list article p {
